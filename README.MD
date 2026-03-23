@@ -1,5 +1,16 @@
 # Time Perception Bias Analysis (Psychology + Data Science)
 
+
+## 📊 Result
+
+This project shows how humans misjudge time:
+- Overestimation under stress
+- Underestimation when relaxed
+
+The visualization below highlights this effect.
+
+
+
 ## Project Overview
 This project simulates a psychological experiment on time perception.  
 It compares real time with perceived time and analyzes how humans misjudge durations.
