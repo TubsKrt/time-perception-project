@@ -12,3 +12,13 @@ print(df)
 
 # Durchschnitt berechnen
 print("\nAverage distortion:", df["distortion"].mean())
+
+
+import matplotlib.pyplot as plt
+
+plt.scatter(df["real_time"], df["perceived_time"])
+plt.xlabel("Real Time")
+plt.ylabel("Perceived Time")
+plt.title("Time Perception Bias")
+
+plt.show()
