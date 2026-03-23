@@ -13,3 +13,12 @@ Time perception is often biased. This project shows how perceived time differs f
 ## Technologies
 - Python
 - Pandas
+
+## Example Output
+
+Average distortion: 3.2
+
+## Psychological Insight
+
+People tend to overestimate time when stressed and underestimate it when relaxed.
+This project simulates that cognitive bias.
