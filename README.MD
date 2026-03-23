@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project simulates a psychological experiment on time perception.  
-It compares **real time vs perceived time** and analyzes how humans misjudge time.
+It compares real time with perceived time and analyzes how humans misjudge durations.
 
 ---
 
