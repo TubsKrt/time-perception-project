@@ -56,3 +56,18 @@ Understanding time perception is important in:
 - Add visualizations (graphs)
 - Use real experimental data
 - Compare groups (e.g. stressed vs relaxed)
+
+
+## Visualization
+
+![Time Perception Plot](plot.png)
+
+
+
+
+
+
+
+
+
+
