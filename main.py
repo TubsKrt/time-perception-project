@@ -27,11 +27,3 @@ plt.show()
 print("\nInterpretation:")
 print("Participants tend to overestimate time on average.")
 
-# Web data extraction (example)
-url = "https://en.wikipedia.org/wiki/List_of_countries_by_population"
-
-tables = pd.read_html(url)
-web_df = tables[0]
-
-print("\nWeb Data:")
-print(web_df.head())
