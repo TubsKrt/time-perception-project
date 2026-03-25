@@ -73,6 +73,9 @@ Understanding time perception is important in:
 
 ![Time Perception Plot](plot.png)
 
+## Data Source
+
+The dataset is simulated for demonstration purposes to analyze time perception bias.
 
 
 
