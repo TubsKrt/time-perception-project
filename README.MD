@@ -74,8 +74,15 @@ Understanding time perception is important in:
 ![Time Perception Plot](plot.png)
 
 
+## Data Source
 
+The dataset was partially extracted from an online source using Python.
 
+Example:
+- Used pandas.read_html() to scrape tables from Wikipedia
+- URL: https://en.wikipedia.org/wiki/List_of_countries_by_population
+
+This demonstrates basic web data extraction and preprocessing.
 
 
 
