@@ -25,5 +25,4 @@ plt.show()
 
 
 print("\nInterpretation:")
-print("Participants tend to overestimate time on average.")
-
+print("Interpretation: On average, participants overestimate time, indicating a positive time perception bias.")
